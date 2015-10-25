@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+	count="31" uniqueCount="28">
+	<si>
+		<t>客户号</t>
+	</si>
+	<si>
+		<t>客户名称</t>
+	</si>
+	<si>
+		<t>余额类别</t>
+	</si>
+	<si>
+		<t>币种</t>
+	</si>
+	<si>
+		<t>或有余额-原币</t>
+	</si>
+	<si>
+		<t>或有余额-折美元</t>
+	</si>
+	<si>
+		<t>相关人</t>
+	</si>
+	<si>
+		<t>生效日</t>
+	</si>
+	<si>
+		<t>到期日</t>
+	</si>
+	<si>
+		<t>业务编号</t>
+	</si>
+	<si>
+		<t>子编号</t>
+	</si>
+	<si>
+		<t>信用证最迟装期</t>
+	</si>
+	<si>
+		<t>保证金比例</t>
+	</si>
+	<si>
+		<t>保证金-原币</t>
+	</si>
+	<si>
+		<t>保证金-折美元</t>
+	</si>
+	<si>
+		<t>远期天数</t>
+	</si>
+	<si>
+		<t>兑付方式</t>
+	</si>
+	<si>
+		<t>XXXX公司</t>
+	</si>
+	<si>
+		<t>1844\2844      </t>
+	</si>
+	<si>
+		<t>美元                </t>
+	</si>
+	<si>
+		<t>SYNLAIT                                                                          </t>
+	</si>
+	<si>
+		<t>110LC1501597                    </t>
+	</si>
+	<si>
+		<t>110LC1501597B002                </t>
+	</si>
+	<si>
+		<t>NG:议付                                                          </t>
+	</si>
+	<si>
+		<t>XXXX有限公司</t>
+	</si>
+	<si>
+		<t>SUZANO</t>
+	</si>
+	<si>
+		<t>110LC1502073                    </t>
+	</si>
+	<si>
+		<t>110LC1502073B002                </t>
+	</si>
+</sst>
